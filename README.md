@@ -1,4 +1,4 @@
 - [API&Requests](./API&Requests/API&Requests.md)
 - [Scraping&BeautifulSoup](./Scraping&BeautifulSoup/Scraping&BeautifulSoup.md)
 - [Scraping&Selenium](./Scraping&Selenium/Scraping&Selenium.md)
-- [pandas](./pandas/pandas.md)
+- [pandas](./pandas/pandas.ipynb)

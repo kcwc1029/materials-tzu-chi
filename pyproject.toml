@@ -7,7 +7,9 @@ authors = [
     { name = "Wei-Cheng Chen", email = "3331363@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pandas>=3.0.6",
+]
 
 [project.scripts]
 materials-tzu-chi = "materials_tzu_chi:main"
